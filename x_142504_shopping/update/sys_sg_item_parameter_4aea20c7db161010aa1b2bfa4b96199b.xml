@@ -8,14 +8,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-08-02 14:20:07</sys_created_on>
         <sys_id>4aea20c7db161010aa1b2bfa4b96199b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>shopping item purchased</sys_name>
         <sys_package display_value="Shopping List" source="x_142504_shopping">1647ac43db161010aa1b2bfa4b96197f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Shopping List">1647ac43db161010aa1b2bfa4b96197f</sys_scope>
         <sys_update_name>sys_sg_item_parameter_4aea20c7db161010aa1b2bfa4b96199b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-08-02 14:20:07</sys_updated_on>
-        <type>string</type>
+        <sys_updated_on>2020-08-05 17:48:48</sys_updated_on>
+        <type>boolean</type>
     </sys_sg_item_parameter>
 </record_update>
